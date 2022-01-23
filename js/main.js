@@ -1342,8 +1342,12 @@ var games = {
 				"value": 53
 			},
 			{
-				"name": "Sunyshore City",
+				"name": "Sunnyshore City",
 				"value": 54
+			},
+			{
+				"name": "Grand Underground: Bogsunk Cave",
+				"value": 18
 			},
 			{
 				"name": "Route 223",
@@ -3682,6 +3686,379 @@ var games = {
 				"name": "Crown Tundra: Split-Decision Ruins",
 				"value": 72
 			}
+		]
+	},
+	'bdsp': {
+		'id': 'bdsp',
+		'title': 'Brilliant Diamond and Shining Pearl',
+		'nameLimit': 12,
+		'dexLimit': 493,
+		'loaded': false,
+		'locations': [
+			{
+				"name": "Starter",
+				"value": 0
+			},
+			{
+				"name": "Twinleaf Town",
+				"value": 1
+			},
+			{
+				"name": "Route 201",
+				"value": 2
+			},
+			{
+				"name": "Lake Verity",
+				"value": 3
+			},
+			{
+				"name": "Route 202",
+				"value": 4
+			},
+			{
+				"name": "Route 203",
+				"value": 5
+			},
+			{
+				"name": "Oreburgh Gate",
+				"value": 6
+			},
+			{
+				"name": "Oreburgh City",
+				"value": 7
+			},
+			{
+				"name": "Oreburgh Mine",
+				"value": 8
+			},
+			{
+				"name": "Route 207",
+				"value": 9
+			},
+			{
+				"name": "Route 204",
+				"value": 10
+			},
+			{
+				"name": "Ravaged Path",
+				"value": 11
+			},
+			{
+				"name": "Floaroma Meadow",
+				"value": 12
+			},
+			{
+				"name": "Route 205",
+				"value": 13
+			},
+			{
+				"name": "Valley Windworks",
+				"value": 14
+			},
+			{
+				"name": "Eterna Forest",
+				"value": 15
+			},
+			{
+				"name": "The Old Chateau",
+				"value": 16
+			},
+			{
+				"name": "Eterna City",
+				"value": 17
+			},
+			{
+				"name": "Grand Underground: Rocky Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Spacious Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Grassland Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Fountainspring Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Riverbank Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Volcanic Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Sandsear Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Still-water Cavern",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Big Bluff Cavern",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Dazzling Cave",
+				"value": 18
+			},
+			{
+				"name": "Route 206",
+				"value": 18
+			},
+			{
+				"name": "Wayward Cave",
+				"value": 19
+			},
+			{
+				"name": "Mt. Coronet",
+				"value": 20
+			},
+			{
+				"name": "Route 208",
+				"value": 21
+			},
+			{
+				"name": "Hearthome City",
+				"value": 22
+			},
+			{
+				"name": "Route 209",
+				"value": 23
+			},
+			{
+				"name": "The Lost Tower",
+				"value": 24
+			},
+			{
+				"name": "Solaceon Ruins",
+				"value": 25
+			},
+			{
+				"name": "Route 210",
+				"value": 26
+			},
+			{
+				"name": "Route 215",
+				"value": 27
+			},
+			{
+				"name": "Veilstone City",
+				"value": 28
+			},
+			{
+				"name": "Route 212",
+				"value": 29
+			},
+			{
+				"name": "Trophy Garden",
+				"value": 30
+			},
+			{
+				"name": "Pastoria City",
+				"value": 31
+			},
+			{
+				"name": "Great Marsh",
+				"value": 32
+			},
+			{
+				"name": "Route 213",
+				"value": 33
+			},
+			{
+				"name": "Valor Lakefront",
+				"value": 34
+			},
+			{
+				"name": "Lake Valor",
+				"value": 35
+			},
+			{
+				"name": "Route 214",
+				"value": 36
+			},
+			{
+				"name": "Ruin Maniac's Cave",
+				"value": 37
+			},
+			{
+				"name": "Ruin Maniac's Tunnel",
+				"value": 38
+			},
+			{
+				"name": "Celestic Town",
+				"value": 39
+			},
+			{
+				"name": "Grand Underground: Icyf Cavern",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Stargleam Cavern",
+				"value": 18
+			},
+			{
+				"name": "Fuego Ironworks",
+				"value": 40
+			},
+			{
+				"name": "Routes 219",
+				"value": 41
+			},
+			{
+				"name": "Route 220",
+				"value": 42
+			},
+			{
+				"name": "Route 221",
+				"value": 43
+			},
+			{
+				"name": "Route 218",
+				"value": 44
+			},
+			{
+				"name": "Canalave City",
+				"value": 45
+			},
+			{
+				"name": "Grand Underground: Swampy Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Sunlit Cave",
+				"value": 18
+			},
+			{
+				"name": "Iron Island",
+				"value": 46
+			},
+			{
+				"name": "Route 211",
+				"value": 47
+			},
+			{
+				"name": "Route 216",
+				"value": 48
+			},
+			{
+				"name": "Route 217",
+				"value": 49
+			},
+			{
+				"name": "Acuity Lakefront",
+				"value": 50
+			},
+			{
+				"name": "Lake Acuity",
+				"value": 51
+			},
+			{
+				"name": "Snowpoint Temple",
+				"value": 52
+			},
+			{
+				"name": "Grand Underground: Whiteout Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Glacial Cave",
+				"value": 18
+			},
+			{
+				"name": "Route 222",
+				"value": 53
+			},
+			{
+				"name": "Sunnyshore City",
+				"value": 54
+			},
+			{
+				"name": "Route 223",
+				"value": 55
+			},
+			{
+				"name": "Pokémon League",
+				"value": 56
+			},
+			{
+				"name": "Victory Road",
+				"value": 57
+			},
+			{
+				"name": "Route 224",
+				"value": 58
+			},
+			{
+				"name": "Route 230",
+				"value": 59
+			},
+			{
+				"name": "Route 229",
+				"value": 60
+			},
+			{
+				"name": "Resort Area",
+				"value": 61
+			},
+			{
+				"name": "Route 228",
+				"value": 62
+			},
+			{
+				"name": "Route 226",
+				"value": 63
+			},
+			{
+				"name": "Route 227",
+				"value": 64
+			},
+			{
+				"name": "Stark Mountain",
+				"value": 65
+			},
+			{
+				"name": "Route 225",
+				"value": 66
+			},
+			{
+				"name": "Sendoff Spring",
+				"value": 67
+			},
+			{
+				"name": "Turnback Cave",
+				"value": 68
+			},
+			{
+				"name": "Spear Pillar",
+				"value": 70
+			},
+			{
+				"name": "Newmoon Island",
+				"value": 71
+			},
+			{
+				"name": "Flower Paradise",
+				"value": 72
+			},
+			{
+				"name": "Hall of Origin",
+				"value": 73
+			},
+			{
+				"name": "Grand Underground: Volcanic Cave",
+				"value": 18
+			},
+			{
+				"name": "Grand Underground: Typhlo Cavern",
+				"value": 18
+			},
 		]
 	},
 	'custom': {
